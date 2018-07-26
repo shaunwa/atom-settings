@@ -1,0 +1,9 @@
+"*":
+  core:
+    telemetryConsent: "no"
+  editor: {}
+  "exception-reporting":
+    userId: "f6db6ceb-acfe-fd89-9721-9d03305e668e"
+  linter: {}
+  welcome:
+    showOnStartup: false
